@@ -6,7 +6,7 @@ float r ;
 
 
 float Bola(){    
-double bola = 0.75*Math.PI*r*r*r;
+double bola = (0.75)*(Math.PI*r*r*r);
     System.out.println("Volume Bola: "+bola);
 return 0;
  }
