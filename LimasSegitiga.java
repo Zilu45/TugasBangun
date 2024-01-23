@@ -6,7 +6,7 @@ public class LimasSegitiga extends BangunRuang {
  float TinggiLimas ;
     
     float Ls(){
-     double limas = 0.25*LuasAlas*TinggiLimas;
+     double limas = (0.25)*(LuasAlas*TinggiLimas);
         System.out.println("Volume Limas Segitiga: "+limas);
     return 0;
     }
